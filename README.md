@@ -9,3 +9,7 @@ Install dependencies
 ### `npm install`
 
 ### `npm start`
+
+## Live Demo
+
+https://sudoku-redux.vercel.app/
